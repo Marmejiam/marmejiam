@@ -4,6 +4,8 @@
 
 ❤️‍🔥 I am passionate about cooking, eating well, new technologies, and curious about any subject whether it is useful or less useful.
 
+⌨️Tech stack : Ruby on rails / Javascript / HTML / CSS / Git / Github
+
 📫 How to reach me
 - marmejiam93@gamil.com
 - www.linkedin.com/in/margarita-mejia93
